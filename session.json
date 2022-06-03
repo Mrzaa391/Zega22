@@ -1,0 +1,63 @@
+"creds": {
+    "noiseKey": {
+      "private": {
+        "type": "Buffer",
+        "data": "qEl+mZcrcjT2gyzQbfxq8k2zDP0Qjr0xYKfazf3mWW8="
+      },
+      "public": {
+        "type": "Buffer",
+        "data": "mH36KYyXuScTG2cW9pcp6nKTxqAcoClAgH5H58xRi3I="
+      }
+    },
+    "signedIdentityKey": {
+      "private": {
+        "type": "Buffer",
+        "data": "SJPZkGrZorLHaf6XRGuI+xIc08yVjT/Q1zKugZuTfWE="
+      },
+      "public": {
+        "type": "Buffer",
+        "data": "lzS2iAqispMj1kp5WixrS33738mRWsgrfs+t+ndo52I="
+      }
+    },
+    "signedPreKey": {
+      "keyPair": {
+        "private": {
+          "type": "Buffer",
+          "data": "0IQdoWHHOzKf8kPUSZwD2IkVs7ctXS8iqs8RZxa57E4="
+        },
+        "public": {
+          "type": "Buffer",
+          "data": "ao6X7O9vW4wOznSBU1RPCXvkieIuhCor8Wla7t+1axI="
+        }
+      },
+      "signature": {
+        "type": "Buffer",
+        "data": "RsLMBtpu8v41Ucaqy/mYNNa1md1/cqjyK6zMHo2pecAgs8LcdtmmVW/rfbVvlDtkrWzOHLHuzcPNQ6WMDy0qDg=="
+      },
+      "keyId": 1
+    },
+    "registrationId": 104,
+    "advSecretKey": "2eYy41NwAcmarDHEaybIdDorwIPhfCGGg4KlRI7z+n0=",
+    "nextPreKeyId": 233,
+    "firstUnuploadedPreKeyId": 233,
+    "serverHasPreKeys": true,
+    "account": {
+      "details": "CPiXsKAGEMGR4pQGGAE=",
+      "accountSignatureKey": "uefnzOyZ9FoHqcN2VG+FTVP93M1fUvZ93lqjwtnTlX8=",
+      "accountSignature": "zurKgc70yS2SqQAmv2rntyu+OKBNYC3xse41lDedOS6XcXYw4/PBFk1TVhwyVezpCP+rxn+7wp0VUKGbntsxAA==",
+      "deviceSignature": "BzDrHOPjv6X4SYHdClFV0a8qfBSRWNruHBr694Of11wbhXHyEqXB9acfOvPvmJvsJ2F23Bmu0tBU2L1B7XjRDA==" 
+},
+    "me": {
+      "id": "6285798297232:4@s.whatsapp.net",
+      "verifiedName": "",
+      "name": "Om Jega"
+    },
+    "signalIdentities": [
+      {
+        "identifier": {
+          "name": "6285798297232:4@s.whatsapp.net",
+          "deviceId": 0
+        },
+        "identifierKey": {
+          "type": "Buffer",
+          "data": "Bbnn58zsmfRaB6nDdlRvhU1T/dzNX1L2fd5ao8LZ05V/"                                }
