@@ -47,6 +47,7 @@
 * [FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2020-12-08-13-03/ffmpeg-n4.3.1-26-gca55240b8c-win64-gpl-4.3.zip) (for sticker command)
 
 # Instalasi
+# https://heroku.com/deploy?template=https://github.com/MirzaAzib788/zega22
 ## Heroku Buildpack
 ```bash
 heroku/nodejs
