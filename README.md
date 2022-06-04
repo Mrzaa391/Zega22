@@ -4,7 +4,7 @@
 
 </p>
 <p align="center">
-<a href="#"><img title="ZEGABOT MULTI DEVICE" src="https://img.shields.io/badge/ZEGABOT MULTI DEVICE-cyan?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="ZEGABOT MULTI DEVICE" src="https://img.shields.io/badge/ZEGABOT MULTI DEVICE-violet?colorA=%238F00FF&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/DikaArdnt"><img title="Author" src="https://img.shields.io/badge/Author-Dika-red.svg?style=for-the-badge&logo=github"></a>
